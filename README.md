@@ -37,7 +37,7 @@ Este proyecto tiene como objetivo brindar inspiración y motivación a través d
 
 ## Integrantes
 * Albano Díez de Paulino - [GITHUB](https://github.com/TerciodeMarte) - [LINKEDIN](https://www.linkedin.com/in/albano-diez/)
-* Daniel Espinosa García - [GITHUB](https://github.com/Daniel-Espinosa) -  [LINKEDIN](hhttps://www.linkedin.com/in/daniel-espinosa-garc%C3%ADa/)
+* Daniel Espinosa García - [GITHUB](https://github.com/Daniel-Espinosa) -  [LINKEDIN](https://www.linkedin.com/in/daniel-espinosa-garc%C3%ADa/)
 * Ramiro Gutiérrez Valverde - [GITHUB](https://github.com/ramirogvalverde) - [LINKEDIN](https://www.linkedin.com/in/ramirogvalverde/)
 
 ## Licencia 📄
