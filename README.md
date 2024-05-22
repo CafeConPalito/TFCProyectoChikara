@@ -31,7 +31,6 @@ Este proyecto tiene como objetivo brindar inspiración y motivación a través d
 * Main - [TFCProyectoChikara](https://github.com/CafeConPalito/TFCProyectoChikara) - Solo Documentación
 * API - [TFCProyectoChikaraAPI](https://github.com/CafeConPalito/TFCProyectoChikaraAPI)
 * APP Movil - [TFCProyectoChikaraAndroid](https://github.com/CafeConPalito/TFCProyectoChikaraAndroid)
-* APP Desktop - [TFCProyectoChikaraDesktop](https://github.com/CafeConPalito/TFCProyectoChikaraDesktop)
 * Pruebas Kotlin - [TFCPruebas](https://github.com/CafeConPalito/TFCPruebas)
 
 
